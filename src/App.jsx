@@ -133,7 +133,7 @@ function App() {
 
 
       {/* Registration Section */}
-      <section id="register" className="min-h-screen flex items-center justify-center bg-white px-4 py-10"style={{ backgroundImage: 'url(/regestration.jpg' }}>
+      <section id="register" className="min-h-screen flex items-center justify-center bg-white px-4 py-10"style={{ backgroundImage: 'url(/regestration.jpg)' }}>
         <div className="max-w-xl text-center">
          <h2 className="text-4xl font-bold text-yellow-400 mb-6">Registration</h2>
     <p className="text-lg mb-6 text-white">Click below to register through our official Google Form.</p>
