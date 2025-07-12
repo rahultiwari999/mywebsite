@@ -154,14 +154,14 @@ function App() {
       <section id="contact" className="min-h-screen flex items-center justify-center bg-gray-200 px-4 py-10"style={{ backgroundImage: 'url(/contact.jpg' }}>
         <div className="max-w-3xl text-center">
           <h2 className="text-4xl font-bold text-white mb-4">Contact Us</h2>
-          <p className="text-white text-lg mb-2">E-mail: <a href="mailto:upescsa123@gmail.com" className="text-white">csi1217@gmail.com</a></p>
+          <p className="text-white text-lg mb-2">E-mail: <a href="mailto:upescsa123@gmail.com" className="text-white">upescsa123@gmail.com</a></p>
           <p className="text-white text-lg">Contact: 1234567890</p>
         </div>
       </section>
 
       {/* Footer */}
       <footer className="bg-indigo-800 text-white py-4 text-center text-sm">
-        Copyright © <a href="https://www.upescsa.com" className="underline">www.upescsahackathon.com</a>. All rights reserved!
+        Copyright © <a href="https://www.upescsa.com" className="underline">www.upescsa.com</a>. All rights reserved!
       </footer>
     </div>
   );
