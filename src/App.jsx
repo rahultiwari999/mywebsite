@@ -32,7 +32,7 @@ function App() {
       {/* Home Section */}
       <section id="home" className="min-h-screen bg-cover bg-center bg-no-repeat py-20 px-6 text-white" style={{ backgroundImage: 'url(/background.jpg)' }}>
   <div className="max-w-4xl mx-auto bg-black bg-opacity-60 p-8 rounded-2xl shadow-lg">
-    <h1 className="text-4xl font-bold mb-6 text-center">Greetings Future Innovators!</h1>
+    <h1 className="text-4xl font-bold mb-6 text-center">Greetings Future Innovators! from UPES-CSA Family</h1>
     <p className="text-lg mb-4">
       We hope this message finds you in great spirits, ready to embark on another exciting chapter of your academic journey.
     </p>
